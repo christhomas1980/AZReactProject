@@ -1,3 +1,5 @@
+Site link to azure: https://reactagain123-c0efcneqasdahmbt.canadacentral-01.azurewebsites.net/
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
