@@ -1,4 +1,7 @@
 Site link to azure: https://reactagain123-c0efcneqasdahmbt.canadacentral-01.azurewebsites.net/
+- This project has a React Front End that is deployed to Azure Web App Service
+- The database is Azure SQL Server database that allows the user to store information
+- The ASP.Net Web API that connects the front end and back end is deployed to Azure Web App Service
 
 # React + Vite
 
